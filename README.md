@@ -1,6 +1,6 @@
 # Hi there, I'm Vaibhav Bhople! 👋
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vaibhavbhople)
+[Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vaibhavbhople)
 
 
 ## 🌟 About Me
