@@ -27,7 +27,7 @@ I am constantly improving my skills and learning new tools to stay ahead in the 
 
 
 ## 📈 Projects
-##[![Portfolio](https://img.icons8.com/color/48/4a90e2/folder-invoices.png)](https://github.com/bhavesh033?tab=repositories)##
+##[![Portfolio](https://img.icons8.com/color/48/4a90e2/folder-invoices.png)](https://shorturl.at/twYZ7)##
 
 ## Portfolio
 [![Portfolio](https://img.icons8.com/ios-filled/50/4a90e2/briefcase.png)](https://codebasics.io/portfolio/bhavesh-Kishor-Rana)  
